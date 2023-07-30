@@ -50,3 +50,10 @@ h2, h3 {
     margin-top: 50px;
 }
 
+.project-name {
+    font-weight: 500;
+}
+
+.date {
+    font-style: italic;
+}
